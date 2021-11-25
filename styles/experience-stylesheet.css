@@ -1,0 +1,47 @@
+/* GLOBAL general */
+* {
+    margin: 0;
+    padding: 0;
+}
+/* GLOBAL body */
+body {
+    background-color: rgb(15, 15, 15);
+}
+/* fonts */
+h3 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 40px;
+}
+h4 {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+}
+p {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+/* title */
+.experience-title {
+    text-align: center;
+    margin: 2em 0 0 0;
+}
+/* main */
+.experience-entry {
+    margin: 2em 4em 8em 4em;
+}
+.experience-entry img {
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 75%;
+}
+.experience-entry p {
+    display: block;
+    margin: 1em auto 0 auto;
+    width: 70%;
+}
+.experience-entry h4 {
+margin: 0 0 .5em 13%;
+}
